@@ -1,0 +1,5 @@
+# Go vendored libs
+/vendor/*/
+
+# vscode setting
+/.vscode
